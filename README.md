@@ -10,6 +10,7 @@ While you are waiting for me to finish this site, here are some other free resou
 
 - [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 - [Programming 101: How to Use the Terminal & Command Line](http://www.galvanize.com/blog/how-to-use-the-terminal-command-line/#.Vry5rpMrKqA)
+- [Software Carpentry Lesson: The Unix Shell](http://swcarpentry.github.io/shell-novice/)
 
 ## Contributions
 
